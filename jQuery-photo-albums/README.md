@@ -61,3 +61,6 @@ To complete this assignment:
 Do everything in normal mode, but also:
 
 - On the photo detail, allow to navigate to other photos in the same album via a click to the left or right of the photo the user is currently viewing.
+
+## Resources
+[Event Delegation](http://bocoup.com/education/online/screencasts/more-efficient-event-handlers/)
