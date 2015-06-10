@@ -55,6 +55,6 @@ Have the ability to store and save different lists of todos..
 
 You will need to use the following server to perform your ajax requests:
 
-[http://tiy-fee-rest.herokuapp.com/collections/<yourCollection>](http://tiy-fee-rest.herokuapp.com/collections/tacobell)
+[http://tiy-fee-rest.herokuapp.com/collections/\<yourCollection\>](http://tiy-fee-rest.herokuapp.com/collections/tacobell)
 
 ** If you feel like the server is down, please ping me on slack and I'll take a look.
